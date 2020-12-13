@@ -1,0 +1,40 @@
+.buttons{
+    position: absolute;
+    bottom: 3vh;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    object-fit: contain;
+    
+    
+}
+
+.buttons .MuiIconButton-root {
+    background-color: white;
+    box-shadow: 0px 10px  53px 0px rgba(0, 0, 0, 0.3) !important;
+}
+
+.button__repeat{
+    padding: 3vw !important;
+    color:  #f5b748 !important;
+}
+
+.button__left{
+    padding: 3vw !important;
+    color: #ec536f !important;
+}
+
+.button__star{
+    padding: 3vw !important;
+    color: #62b4f9 !important;
+}
+
+.button__right{
+    padding: 3vw !important;
+    color: #76e2b3 !important;
+}
+
+.button__light{
+    padding: 3vw !important;
+    color: #915dd1 !important;
+}
